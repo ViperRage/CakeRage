@@ -2,11 +2,11 @@
 
 ***
 
-**[Player Reports](https://github.com/ViperRage/CakeRage/blob/master/Player%20Reports.md)**
+**[Player Reports](https://github.com/ViperRage/CakeRage/blob/master/Reports.md)**
 
 ***
 
-**[Player Interviews](google.com "")**
+**[Player Interviews](https://github.com/ViperRage/CakeRage/blob/master/Interviews.md)**
 
 ***
 
