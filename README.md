@@ -10,6 +10,6 @@
 
 ***
 
-**[Unofical Forums](https://github.com/ViperRage/CakeRage/issues/new "Unofical")**
+**[Unofical Forums](https://github.com/ViperRage/CakeRage/issues/ "Unofical")**
 
 ***
