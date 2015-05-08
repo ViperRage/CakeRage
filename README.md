@@ -2,7 +2,7 @@
 
 ***
 
-[Player Reports](PlayerReports.md)
+[Player Reports](https://github.com/ViperRage/CakeRage/blob/master/Player%20Reports.md)
 
 ***
 
