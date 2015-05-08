@@ -3,22 +3,22 @@
 
 ***
 
-# Hacks
-Killaura
-Reach
+## Hacks
+**Killaura**
+**Reach**
 
 ***
 
-# Proof
-[Video Proof (YouTube)](https://www.youtube.com/watch?v=pcdhmybrL70 "https://www.youtube.com/watch?v=pcdhmybrL70")
+## Proof
+**[Video Proof](https://www.youtube.com/watch?v=pcdhmybrL70 "YouTube")**
 
 ***
 
-# Status
-Pending
+## Status
+### **Pending**
 
 ***
 
-[Back](https://github.com/ViperRage/CakeRage/blob/master/Player%20Reports.md)
+**[Back](https://github.com/ViperRage/CakeRage/blob/master/Player%20Reports.md)**
 
 ***
