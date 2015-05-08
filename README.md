@@ -2,7 +2,7 @@
 
 ***
 
-[Player Reports](google.com "")
+[Player Reports](PlayerReports.md)
 
 ***
 
