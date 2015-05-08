@@ -4,20 +4,20 @@
 ***
 
 # Hacks
-Killaura
+**Killaura**
 
 ***
 
 # Proof
-[Video Proof (YouTube)](https://www.youtube.com/watch?v=xGm5S9Nqcgs "https://www.youtube.com/watch?v=xGm5S9Nqcgs")
+**[Video Proof (YouTube)](https://www.youtube.com/watch?v=xGm5S9Nqcgs "https://www.youtube.com/watch?v=xGm5S9Nqcgs")**
 
 ***
 
 # Status
-Banned
+**Banned**
 
 ***
 
-[Back](https://github.com/ViperRage/CakeRage/blob/master/Player%20Reports.md)
+**[Back](https://github.com/ViperRage/CakeRage/blob/master/Player%20Reports.md)**
 
 ***
