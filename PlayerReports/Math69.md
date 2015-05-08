@@ -22,6 +22,6 @@
 
 ***
 
-**[Back](https://github.com/ViperRage/CakeRage/blob/master/Player%20Reports.md)**
+**[Back](https://github.com/ViperRage/CakeRage/blob/master/Reports.md)**
 
 ***
