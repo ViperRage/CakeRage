@@ -2,15 +2,15 @@
 
 ***
 
-**[Validiir](https://github.com/ViperRage/CakeRage/blob/master/Interviews/Validiir.md)**
+**[Validiir](https://github.com/ViperRage/CakeRage/blob/master/Interviews/Validiir.md "3/5")**
 
 ***
 
-**[DestructiveDonut](https://github.com/ViperRage/CakeRage/blob/master/Interviews/DestructiveDonut.md)**
+**[DestructiveDonut](https://github.com/ViperRage/CakeRage/blob/master/Interviews/DestructiveDonut.md "4/5")**
 
 ***
 
-**[m00tykins](https://github.com/ViperRage/CakeRage/blob/master/Interviews/m00tykins.md)**
+**[m00tykins](https://github.com/ViperRage/CakeRage/blob/master/Interviews/m00tykins.md "4.5/5")**
 
 ***
 
