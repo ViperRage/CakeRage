@@ -11,4 +11,8 @@
 
 ***
 
+![Head](http://cravatar.eu/helmhead/DestructiveDonut/200.png)
+
+***
+
 **[Back](https://github.com/ViperRage/CakeRage/blob/master/Interviews.md)**
