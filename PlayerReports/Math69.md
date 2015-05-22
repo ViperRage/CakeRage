@@ -18,7 +18,7 @@
 ***
 
 ## Status
-### **Banned**
+### **Pending**
 
 ***
 
